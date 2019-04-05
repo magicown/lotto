@@ -1,18 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e196e305-e54f-4e2a-85f4-26a782d16576" name="Default Changelist" comment="" />
+    <list default="true" id="e196e305-e54f-4e2a-85f4-26a782d16576" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/adm/admin.menu250.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adm/admin.head.sub.php" beforeDir="false" afterPath="$PROJECT_DIR$/adm/admin.head.sub.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adm/member_list.php" beforeDir="false" afterPath="$PROJECT_DIR$/adm/member_list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/admin/basic/css/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/skin/admin/basic/css/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/basic/img/icon_file.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/basic/img/icon_file.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/basic/img/icon_hot.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/basic/img/icon_hot.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/basic/img/icon_img.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/basic/img/icon_img.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/basic/img/icon_link.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/basic/img/icon_link.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/basic/img/icon_mobile.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/basic/img/icon_mobile.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/basic/img/icon_movie.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/basic/img/icon_movie.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/basic/img/icon_new.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/basic/img/icon_new.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/basic/img/icon_reply.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/basic/img/icon_reply.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/basic/img/icon_secret.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/basic/img/icon_secret.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/basic/list.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/basic/list.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/basic/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/basic/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/basic/view.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/basic/view.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/basic/view_comment.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/basic/view_comment.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/basic/write.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/basic/write.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/gallery/img/icon_file.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/gallery/img/icon_file.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/gallery/img/icon_hot.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/gallery/img/icon_hot.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/gallery/img/icon_img.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/gallery/img/icon_img.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/gallery/img/icon_link.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/gallery/img/icon_link.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/gallery/img/icon_mobile.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/gallery/img/icon_mobile.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/gallery/img/icon_movie.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/gallery/img/icon_movie.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/gallery/img/icon_new.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/gallery/img/icon_new.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/gallery/img/icon_reply.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/gallery/img/icon_reply.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/gallery/img/icon_secret.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/gallery/img/icon_secret.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/gallery/list.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/gallery/list.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/gallery/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/gallery/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/gallery/view.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/gallery/view.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/gallery/view_comment.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/gallery/view_comment.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/board/gallery/write.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/board/gallery/write.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/connect/basic/current_connect.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/connect/basic/current_connect.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/connect/basic/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/skin/connect/basic/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/faq/basic/list.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/faq/basic/list.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/faq/basic/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/skin/faq/basic/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/formmail.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/formmail.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/login.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/login.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/login_check.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/login_check.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/member_confirm.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/member_confirm.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/memo.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/memo.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/memo_form.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/memo_form.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/memo_view.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/memo_view.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/password.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/password.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/password_lost.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/password_lost.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/point.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/point.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/profile.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/profile.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/register.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/register.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/register_form.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/register_form.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/register_result.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/register_result.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/scrap.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/scrap.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/scrap_popin.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/scrap_popin.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/member/basic/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/skin/member/basic/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/new/basic/new.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/new/basic/new.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/new/basic/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/skin/new/basic/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/outlogin/basic/outlogin.skin.1.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/outlogin/basic/outlogin.skin.1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/poll/basic/poll.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/poll/basic/poll.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/poll/basic/poll_result.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/poll/basic/poll_result.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/poll/basic/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/skin/poll/basic/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/qa/basic/img/icon_answer.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/qa/basic/img/icon_answer.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/qa/basic/img/icon_file.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/qa/basic/img/icon_file.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/qa/basic/img/icon_hot.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/qa/basic/img/icon_hot.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/qa/basic/img/icon_img.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/qa/basic/img/icon_img.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/qa/basic/img/icon_link.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/qa/basic/img/icon_link.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/qa/basic/img/icon_mobile.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/qa/basic/img/icon_mobile.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/qa/basic/img/icon_movie.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/qa/basic/img/icon_movie.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/qa/basic/img/icon_new.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/qa/basic/img/icon_new.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/qa/basic/img/icon_secret.gif" beforeDir="false" afterPath="$PROJECT_DIR$/skin/qa/basic/img/icon_secret.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/qa/basic/list.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/qa/basic/list.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/qa/basic/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/skin/qa/basic/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/qa/basic/view.answer.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/qa/basic/view.answer.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/qa/basic/view.answerform.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/qa/basic/view.answerform.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/qa/basic/view.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/qa/basic/view.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/qa/basic/write.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/qa/basic/write.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/search/basic/search.skin.php" beforeDir="false" afterPath="$PROJECT_DIR$/skin/search/basic/search.skin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/search/basic/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/skin/search/basic/style.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/phpMyAdmin/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adm/member_list.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="240" column="155" selection-start-line="240" selection-start-column="155" selection-end-line="240" selection-end-column="155" />
+              <folding>
+                <element signature="e#11596#11603#1#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="true">
+        <entry file="remoteDeploymentFS://&lt;1a0e9b1b-82d9-4c20-9bfb-4f0bf7255b43&gt;/adm/admin.head.sub.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-38">
+              <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.pc-menu, .pc-menu .nav-full-back, .pc-menu .nav-full-height</find>
+      <find>$is_menuh</find>
+      <find>login</find>
+      <find>슬라이더</find>
+      <find>mb_list_chk</find>
+      <find>아이디</find>
+      <find>myModal</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,6 +133,15 @@
       <list>
         <option value="$PROJECT_DIR$/makelotto/_common.php" />
         <option value="$PROJECT_DIR$/makelotto/random.php" />
+        <option value="$PROJECT_DIR$/thema/Miso-Basic4/assets/thema.php" />
+        <option value="$PROJECT_DIR$/thema/Miso-Basic4/colorset/Basic-Box/colorset.css" />
+        <option value="$PROJECT_DIR$/thema/Miso-Basic4/head.php" />
+        <option value="$PROJECT_DIR$/skin/outlogin/basic/outlogin.skin.1.php" />
+        <option value="$PROJECT_DIR$/thema/Miso-Basic4/main/main-community.php" />
+        <option value="$PROJECT_DIR$/adm/admin.menu270.php" />
+        <option value="$PROJECT_DIR$/adm/admin.menu250.php" />
+        <option value="$PROJECT_DIR$/adm/member_list.php" />
+        <option value="$PROJECT_DIR$/adm/admin.head.sub.php" />
       </list>
     </option>
   </component>
@@ -37,6 +157,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -44,11 +165,15 @@
               <item name="작업" type="b2602c69:ProjectViewProjectNode" />
               <item name="작업" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="작업" type="b2602c69:ProjectViewProjectNode" />
+              <item name="작업" type="462c0819:PsiDirectoryNode" />
+              <item name="adm" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -58,9 +183,15 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/bdstory.co.kr" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\로또\작업\adm" />
+      <recent name="D:\로또\작업\skin\outlogin\basic" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -85,17 +216,20 @@
       <option name="presentableId" value="Default" />
       <updated>1553564037669</updated>
       <workItem from="1553564038853" duration="531000" />
-      <workItem from="1553564572567" duration="4274000" />
+      <workItem from="1553564572567" duration="6963000" />
+      <workItem from="1553820026198" duration="5172000" />
+      <workItem from="1553826881676" duration="3670000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4805000" />
+    <option name="totallyTimeSpent" value="16336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="2576" height="1456" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.098569155" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10015898" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -107,16 +241,39 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.32930514" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.32827735" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32955405" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" weight="0.10969793" />
+      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.14705883" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10015898" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.32827735" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32955405" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.14712153" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -133,6 +290,139 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
           <caret line="42" column="63" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thema/Miso-Basic4/head.sub.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thema/Miso-Basic4/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-570">
+          <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1710">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thema/Miso-Basic4/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thema/Miso-Basic4/assets/thema.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="165" lean-forward="true" selection-start-line="165" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thema/Miso-Basic4/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="47" column="48" lean-forward="true" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#aside#0;n#header#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thema/Miso-Basic4/main/main-basic-small.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="268" column="18" lean-forward="true" selection-start-line="266" selection-start-column="12" selection-end-line="268" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thema/Miso-Basic4/colorset/Basic-Box/colorset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5035">
+          <caret line="265" column="40" selection-start-line="265" selection-start-column="40" selection-end-line="265" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/outlogin/basic/outlogin.skin.1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-end-line="63" />
+          <folding>
+            <element signature="n#style#0;n#input#1;n#div#0;n#fieldset#0;n#form#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thema/Miso-Basic4/main/main-community.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adm/admin.menu270.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adm/admin.menu250.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="71" selection-start-line="7" selection-start-column="79" selection-end-line="9" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adm/admin.menu200.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adm/admin.menu100.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/head.sub.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="91" column="34" lean-forward="true" selection-start-line="91" selection-start-column="34" selection-end-line="91" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adm/admin.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adm/admin.head.sub.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="59" column="97" selection-start-line="59" selection-start-column="97" selection-end-line="59" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adm/member_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="240" column="155" selection-start-line="240" selection-start-column="155" selection-end-line="240" selection-end-column="155" />
+          <folding>
+            <element signature="e#11596#11603#1#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

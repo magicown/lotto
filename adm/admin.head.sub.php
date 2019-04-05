@@ -57,6 +57,7 @@ if(APMS_PRINT){  //프린트 상태일 때는 검색엔진에서 제외합니다
 <?php if($xp['xp_icon'] == 'txt') { ?>
 <link rel="stylesheet" href="<?php echo G5_CSS_URL;?>/level/<?php echo $xp['xp_icon_css'];?>.css?ver=<?php echo APMS_SVER;?>">
 <?php } ?>
+<link rel="stylesheet" href="/thema/Miso-Basic4/assets/bs3/css/bootstrap.min.css" type="text/css">
 <!--[if lte IE 8]>
 <script src="<?php echo G5_JS_URL ?>/html5.js"></script>
 <![endif]-->
@@ -84,6 +85,7 @@ var g5_admin_url = "<?php echo G5_ADMIN_URL; ?>";
 <script src="<?php echo G5_JS_URL ?>/wrest.js?ver=<?php echo APMS_SVER; ?>"></script>
 <script src="<?php echo G5_JS_URL ?>/placeholders.min.js"></script>
 <script src="<?php echo G5_JS_URL ?>/apms.js?ver=<?php echo APMS_SVER; ?>"></script>
+<script type="text/javascript" src="/thema/Miso-Basic4/assets/bs3/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="<?php echo G5_JS_URL ?>/font-awesome/css/font-awesome.min.css">
 </head>
 <body class="<?php echo (_RESPONSIVE_) ? '' : 'no-';?>responsive <?php echo $body_mode;?>">
